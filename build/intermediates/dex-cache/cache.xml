@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Normence/程序/未命名文件夹/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="205cb01dda86f89d5b137603f5e9a6738425bcf8">
+        <dex dex="/Users/Normence/程序/未命名文件夹/app/build/intermediates/pre-dexed/debug/instant-run_25baf5cc48c3e7b8ddeefaae4f51de1a08036b7d.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/程序/AndroidStudioProjects/DataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Normence/程序/AndroidStudioProjects/DataCollector/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_ac5ce490f2aa6b0b1646618dba773a175b1e5b7f.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/程序/未命名文件夹/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Normence/程序/未命名文件夹/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_5b473753072e4f2e547ba7f655b64df8a4bb21b1.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/程序/AndroidStudioProjects/DataCollector/app/build/intermediates/exploded-aar/com.openxcplatform/library/6.1.6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bf30d75f91600b77f7f381cd957c8fc754501221">
+        <dex dex="/Users/Normence/程序/AndroidStudioProjects/DataCollector/app/build/intermediates/pre-dexed/debug/com.openxcplatform-library-6.1.6_5fd24eefdaf0a3055dd20570db8def8b8d0cb0aa.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/程序/未命名文件夹/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Normence/程序/未命名文件夹/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_2486b15c33ad20e7e712c907a84f8fe6ec3c58d6.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/程序/AndroidStudioProjects/DataCollector/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Normence/程序/AndroidStudioProjects/DataCollector/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_1140d2713ca08ce5cc8a816a2ba23100ae064a08.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/程序/AndroidStudioProjects/DataCollector/obd-java-api/build/libs/obd-java-api.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e54fe0f64473552f9a38921706342f5f5d25b488">
+        <dex dex="/Users/Normence/程序/AndroidStudioProjects/DataCollector/app/build/intermediates/pre-dexed/debug/obd-java-api_cf2f56480c4364a57cfaf287012b053642027640.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/程序/未命名文件夹/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2e6f1b0f132c2e955b1aeca3cc10fd43c1630fe6">
+        <dex dex="/Users/Normence/程序/未命名文件夹/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_792159dcbee9bca6f850e3b794fceb0f04989336.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/Normence/程序/AndroidStudioProjects/DataCollector/app/build/intermediates/pre-dexed/debug/gson-2.3_4e2425734f6b7e150b981e76f0b60897f216bb16.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/Normence/程序/未命名文件夹/app/build/intermediates/pre-dexed/debug/gson-2.3_4e2425734f6b7e150b981e76f0b60897f216bb16.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/程序/未命名文件夹/app/build/intermediates/exploded-aar/com.openxcplatform/library/6.1.6/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="bf30d75f91600b77f7f381cd957c8fc754501221">
+        <dex dex="/Users/Normence/程序/未命名文件夹/app/build/intermediates/pre-dexed/debug/com.openxcplatform-library-6.1.6_54c777a564c50f32932641a51d1023338fee9680.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/Normence/程序/未命名文件夹/app/build/intermediates/pre-dexed/debug/guava-18.0_6ce1a1e8832892a63448bff44a7a3731b577c205.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/Normence/程序/AndroidStudioProjects/DataCollector/app/build/intermediates/pre-dexed/debug/guava-18.0_6ce1a1e8832892a63448bff44a7a3731b577c205.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/程序/AndroidStudioProjects/DataCollector/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Normence/程序/AndroidStudioProjects/DataCollector/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_226c848744c7b852def20662a1d087e7d8aefb4d.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/2.6.1/d9521f2aecb909835746b7a5facf612af5e890e8/protobuf-java-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d9521f2aecb909835746b7a5facf612af5e890e8">
+        <dex dex="/Users/Normence/程序/AndroidStudioProjects/DataCollector/app/build/intermediates/pre-dexed/debug/protobuf-java-2.6.1_7c3bdb28675aec023f75bbfd594d8921229d978a.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/2.6.1/d9521f2aecb909835746b7a5facf612af5e890e8/protobuf-java-2.6.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d9521f2aecb909835746b7a5facf612af5e890e8">
+        <dex dex="/Users/Normence/程序/未命名文件夹/app/build/intermediates/pre-dexed/debug/protobuf-java-2.6.1_7c3bdb28675aec023f75bbfd594d8921229d978a.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/程序/未命名文件夹/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Normence/程序/未命名文件夹/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_650c07d629b94a12838d9c3cb4c3317884bb5708.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/Normence/程序/AndroidStudioProjects/DataCollector/app/build/intermediates/pre-dexed/debug/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Normence/程序/未命名文件夹/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_3ad932eb4807328e2208a4d0fb977ecf138d1866.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/Normence/程序/未命名文件夹/app/build/intermediates/pre-dexed/debug/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315.jar" />
+    </item>
+    <item
+        jar="/Users/Normence/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Normence/程序/AndroidStudioProjects/DataCollector/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_3ad932eb4807328e2208a4d0fb977ecf138d1866.jar" />
+    </item>
+
+</items>

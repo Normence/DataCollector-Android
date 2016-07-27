@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataCollector</string>
+    <string name="textview_new_devices">New Devices Discovered:</string>
+    <string name="textview_paired_devices">Already Paired Devices:</string>
+    <string name="text_bluetooth_nodevice">No Bluetooth device selected</string>
+    <string name="service_starting">Starting device connection..</string>
+    <string name="service_started">Device connection has started.</string>
+    <string name="service_stopped">Device connection has stopped.</string>
+    <string name="appDirName">GreenPrint</string>
+</resources>
